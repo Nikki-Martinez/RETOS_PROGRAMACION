@@ -5,8 +5,8 @@ n1 = int(input("Ingresa el primer número entero: "))
 n2 = int(input("Ingresa el segundo número entero: "))
 n3 = int(input("Ingresa el tercer número entero: "))
 
-print(f"\nEl número mayor es: {max(n1, n2, n3)}")
-print(f"El número menor es: {min(n1, n2, n3)}\n")
+print(f"El número mayor es: {max(n1, n2, n3)}")
+print(f"El número menor es: {min(n1, n2, n3)}")
 
 
 for n in (n1, n2, n3):
